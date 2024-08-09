@@ -9,6 +9,8 @@
  - HighOrder Function
  - Map vs weakMap
  - Object.freeze() vs const 
+ - Pure Function in javascript
+ - How to test a function a having dependency to other b and c function 
  - Dependency Inversion Principle vs Dependency Injection Principle using example of type script
  - let vs const vs var
  - Write a program for Singlton design pattern
