@@ -1,5 +1,5 @@
 # Basic Interview Question For 2024
- - Normal Function vs Arrow Function
+ - Normal Function vs Arrow Function [Ans](/ans/arrow-vs-normal-function.md)
  - Map vs Filter vs Reducer in Javascript
  - callback function
  - Proxy Object
