@@ -1,3 +1,5 @@
+
+## How to test a function a having dependency to other b and c function
 Testing a function that has dependencies on other functions can be approached in several ways, depending on the nature of the dependencies and the testing strategy you want to use. Here are some common strategies:
 
 ### 1. **Unit Testing with Mocking**
@@ -144,3 +146,7 @@ describe('calculateTotal with injected dependencies', () => {
 - **Dependency Injection:** Refactor the function to accept dependencies as parameters, making it easier to test.
 
 Choosing the right approach depends on your testing goals and the complexity of your code.
+
+
+
+### Note - This question was asked into HCL interview of 1st Level
