@@ -1,5 +1,3 @@
-In JavaScript, both normal functions (also known as traditional functions) and arrow functions are used to define functions, but they have some important differences. Here's a comparison of the two:
-
 ### Normal Function
 
 #### Syntax:
