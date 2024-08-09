@@ -1,0 +1,57 @@
+# Basic Interview Question For 2024
+ - Normal Function vs Arrow Function
+ - Map vs Filter vs Reducer in Javascript
+ - callback function
+ - Proxy Object
+ - OwnCustomeMap function , OwnCustomFilter function, OwnCustomReducer function,
+ - Deep clone vs Swallo clone
+ - Spread operator
+ - HighOrder Function
+ - Map vs weakMap
+ - Object.freeze() vs const 
+ - Dependency Inversion Principle vs Dependency Injection Principle using example of type script
+ - let vs const vs var
+ - Write a program for Singlton design pattern
+ - Data Type in Javascript
+ - Arrow Function
+ - Anonymous Functions (Function Expressions)
+ - Generator Functions
+ - Immediately Invoked Function Expressions (IIFE):
+ - Async Functions:
+ - Function Declarations:
+ - Function Expressions
+ - Static Typing
+ - Interfaces
+ - Generics
+ - Howmany way to clone object in javascript? 
+ - Promise in depth
+ - Promise.all
+ - Promise.race
+ - Promise.allSettled
+ - Promise.allSettled vs Promise.all
+ - Promise.any
+ - What are some common pitfalls or challenges when working with Promises?
+ - How do you handle timeout scenarios in Promises?
+ - Write a function that simulates an API call and returns a Promise that resolves after a delay.
+ - Write a function that takes an array of URLs and fetches data from all of them concurrently using Promises.
+ - Write a function that waits for all promises to settle, regardless of their outcome.
+ - How is a Promise different from a callback?
+ - What is a "Promise anti-pattern"?
+ - What is the Promise/A+ specification?
+ - How can you create a Promise that resolves after a specified delay?
+ - How can you implement a retry mechanism using Promises?
+ - How do you use Promises with synchronous code?
+ - What is the difference between Promise.all and Promise.allSettled in terms of behavior and use cases?
+ - What happens when you return a rejected Promise in a then handler?
+ - How can you handle multiple types of errors in a single catch block?
+ - How can you debug a Promise that isn’t behaving as expected?
+ - What are "unhandled promise rejections," and how can you handle them in modern JavaScript?
+ - How can you create a Promise-based timeout for an asynchronous operation?
+ - How can you use Promises to manage an asynchronous task queue?
+ - What are some use cases for Promise.all versus Promise.race?
+ - How would you convert callback-based code to use Promises?
+ - How do you handle a situation where a Promise needs to be cancelled?
+ - What are "Promise pools" and how are they used?
+ - How can you use Promises to improve the readability of asynchronous code?
+ - 
+
