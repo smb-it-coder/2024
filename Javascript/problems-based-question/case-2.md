@@ -1,5 +1,5 @@
 
-## How to test a function a having dependency to other b and c function
+## How to test a function a() having dependency to other b() and  function c()
 Testing a function that has dependencies on other functions can be approached in several ways, depending on the nature of the dependencies and the testing strategy you want to use. Here are some common strategies:
 
 ### 1. **Unit Testing with Mocking**
