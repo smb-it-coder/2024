@@ -1,4 +1,3 @@
-Based on the content from the [Positiwise blog post about Angular 17](https://positiwise.com/blog/whats-new-in-angular-17), here are the key updates and new features in Angular 17, along with explanations and examples:
 
 ### What's New in Angular 17
 

@@ -1,4 +1,3 @@
-Based on the provided source, here's a summary of the key updates and features introduced in Angular 17:
 
 ### Angular 17 Release Notes
 

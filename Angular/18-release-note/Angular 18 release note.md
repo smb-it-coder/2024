@@ -1,6 +1,3 @@
-As of now, Angular 18 has not been officially released, so there are no official release notes available. However, based on Angular's usual release patterns and community trends, I can provide a speculative overview of what the Angular 18 release notes might include based on potential features and improvements.
-
-Here’s a hypothetical overview of what the Angular 18 release notes might cover:
 
 ### Angular 18 Release Notes
 
