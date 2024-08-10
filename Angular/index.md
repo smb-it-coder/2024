@@ -16,6 +16,8 @@
      - Bug fixes
      - New Default Browser Configuration 
  - What are Pure Pipes? 
+ - What are the new updates with Angular17 LTS?
+ - What are the new updates with Angular18 Active?  
  - What are Impure Pipes?
  - What is an ngModule?
  - What are filters in Angular? Name a few of them.
