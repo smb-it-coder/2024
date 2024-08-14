@@ -65,15 +65,19 @@ Here, `makeMultiplier` returns a function that multiplies its argument by a spec
 ## IInd Example
 
 
+
 function greeting(){
     let name = "Brij";
      let helloMsg = function(){
         str = `Hello ${name}!`
-        console.log(helloMsg);
+        console.log(str);
+        return str;
     }
 
     return  helloMsg();
 }
+
+greeting()
 
 greeting()
 
