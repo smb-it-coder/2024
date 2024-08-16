@@ -6,4 +6,7 @@ Ask about project details
    -- contributes - day to day activity
    -- SQLlite
    -- ORM/REALM/
-   -- 
+   -- event looping
+   callback
+   promises
+   
