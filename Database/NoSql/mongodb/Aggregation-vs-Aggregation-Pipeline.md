@@ -1,4 +1,3 @@
-In MongoDB, the terms "aggregation" and "aggregation pipeline" are closely related, but they refer to different aspects of how MongoDB processes and manipulates data. Here's a detailed breakdown of the differences between them and how they are used:
 
 ### **1. Aggregation**
 
